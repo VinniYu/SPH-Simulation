@@ -1,4 +1,0 @@
-#!/bin/bash
-make clean
-make
-./2D_SPH
