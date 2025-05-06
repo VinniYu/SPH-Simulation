@@ -1,4 +1,0 @@
-#!/bin/bash
-make clean
-make
-./3D_SPH
